@@ -1,0 +1,7 @@
+base   simplequiz
+author James Collins
+email  james.collins@outlook.com.au
+date   2023-11-16
+name   simplequiz
+desc   simplequiz
+url    https://github.com/nomadjimbob/simplequiz
